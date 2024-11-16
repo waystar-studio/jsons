@@ -11,6 +11,8 @@ $( function() {
 		,	duration: "fast"
 	});
 } );
+
+
        
        
        document.addEventListener('DOMContentLoaded', () => {
